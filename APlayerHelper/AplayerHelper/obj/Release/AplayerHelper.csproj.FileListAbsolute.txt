@@ -1,0 +1,5 @@
+J:\迅雷下载\TestPlayer\APlayerHelper\AplayerHelper\bin\Release\AplayerHelper.dll
+J:\迅雷下载\TestPlayer\APlayerHelper\AplayerHelper\bin\Release\AplayerHelper.pdb
+J:\迅雷下载\TestPlayer\APlayerHelper\AplayerHelper\obj\Release\AplayerHelper.csproj.CoreCompileInputs.cache
+J:\迅雷下载\TestPlayer\APlayerHelper\AplayerHelper\obj\Release\AplayerHelper.dll
+J:\迅雷下载\TestPlayer\APlayerHelper\AplayerHelper\obj\Release\AplayerHelper.pdb
